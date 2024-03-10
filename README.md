@@ -28,6 +28,30 @@ rsc - shortcut for component
 
 -- Prop drilling
 
+-- To deploy
+https://vitejs.dev/guide/static-deploy.html
+
+1. Building the App:
+ - npm run build (It will create dist file)
+
+2. To test the build
+-  npm run preview
+
+3. Surge Deploy (Do all in command prompt not in git bash from vs code )
+- npm install -g surge (First time)
+- npm run build (First time)
+- surge dist
+
+4. In Netlify
+- npm run build
+- upload the dist file
+
+- Link will be given by netlify
+https://resplendent-squirrel-aaf8a8.netlify.app/
+
+
+
+
 
 
 
