@@ -14,13 +14,13 @@ React extension pack (Installed)
 Rest countries -->All
 
 1. Component
-2.JSX
-3.Props
+2. JSX
+3. Props
 4. Event handler
-5.State
-6.Useeffect - all asynchoronous or outside element are dealt with Use effect or side effect dealing system such as data loading
+5. State
+6. Useeffect - all asynchoronous or outside element are dealt with Use effect or side effect dealing system such as data loading
 
-rsc- shortcut for component
+rsc - shortcut for component
 
 
 
