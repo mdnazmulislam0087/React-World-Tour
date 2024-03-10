@@ -22,5 +22,13 @@ Rest countries -->All
 
 rsc - shortcut for component
 
+--state and handler in the same place
+-- can send as prop
+
+
+-- Prop drilling
+
+
+
 
 
